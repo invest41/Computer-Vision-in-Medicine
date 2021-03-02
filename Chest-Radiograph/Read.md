@@ -1,1 +1,1 @@
-#This is a repository for developing algorithms for predicting lung conditions on chest radiograph
+> **This is a repository for developing algorithms which predict lung conditions on chest radiograph**
